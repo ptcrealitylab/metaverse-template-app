@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+node_modules/
+.idea/
+# VS Code workspace settings
+.vscode/
+#.env files
+.env
+/interfaces/digitalThread/public/pdfjs/
+/tools/linkedFile/pdfjs/

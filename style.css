@@ -1,0 +1,17 @@
+#menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 160px;
+    height: 100%;
+}
+
+#randomizeButton {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 1px solid white;
+    border-radius: 12px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    padding: 10px 0;
+    text-align: center;
+}
