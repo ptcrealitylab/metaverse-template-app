@@ -1,4 +1,7 @@
 /* global SpatialInterface, Envelope, THREE, GLTFLoader, realGl, gl */
+/**
+ * Copyright (c) 2023 PTC
+ */
 
 gl.enableWebGL2 = true;
 
